@@ -164,7 +164,7 @@ if (s === "complete" || s === "loaded" || s === "interactive") init();
 else document.addEventListener("DOMContentLoaded", init, false);
 // JavaScript code to display each letter one by one
 document.addEventListener("DOMContentLoaded", function () {
-  const text = "CÓ CÁI CON CẶC!!!";
+  const text = "CÓ CÁI CON CẶC! =)))";
   const textContainer = document.getElementById("center-text");
   let index = 0;
 
